@@ -26,7 +26,7 @@ rustup default nightly
 ```
 ４．下载racer
 ```
-cargo install racer
+cargo install racer（必须nightly版本，否则会出错）
 ```
 5.安装rls
 ```
@@ -36,3 +36,4 @@ rustup update(更新rust)
 rustup component add rls-preview rust-analysis rust-src
 ```
 6.下载vscode以及插件
+
