@@ -39,3 +39,11 @@ rustup component add rls-preview rust-analysis rust-src
 
 ![](rust1.png)
 
+7.hellow world
+
+![](rust2.png)
+
+
+
+
+
