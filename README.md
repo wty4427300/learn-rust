@@ -39,7 +39,7 @@ rustup component add rls-preview rust-analysis rust-src
 
 ![](rust1.png)
 
-7.hellow world
+7.hellow world(注意1.里面的官方链接里面有完整的例子，重点是项目管理工具cargo)
 
 ![](rust2.png)
 
