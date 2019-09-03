@@ -37,3 +37,5 @@ rustup component add rls-preview rust-analysis rust-src
 ```
 6.下载vscode以及插件
 
+![](rust1.png)
+
